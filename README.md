@@ -2,6 +2,7 @@
 - Flutter Mobile Developer :iphone: 
 - Computer Science Student
 - I have worked on several mobile and backend projects 😄 
+- Data Science Enthusiast 📈
 - I’m looking to collaborate on open source projects 👯
 - Reach me out on Gmail: younes.mimene@gmail.com 📫
 
