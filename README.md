@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Younes
 - Flutter Mobile Developer :iphone: 
-- Computer Science Student
 - I have worked on several mobile and backend projects 😄 
 - Data Science Enthusiast 📈
 - I’m looking to collaborate on open source projects 👯
@@ -8,6 +7,8 @@
 
 
 * Ask me about Flutter or Nodejs, it's always a pleasure to help others 💬 
+* You can take a look on [my YouTube channel](https://www.youtube.com/c/CSYounes) or [Instagram account](https://www.instagram.com/younes_mimene/) where I share useful things.
+
 
 **Languages and Tools:**  
 
