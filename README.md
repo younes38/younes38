@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/younes-mimene" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/Palestinian.kun/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%232D88FF.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<br>
-### Github Stats
 
+### Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younes38&show_icons=true&locale=en" alt="younes38" /></p>
