@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Younes
-- Flutter Mobile Developer :iphone: 
+- Software Developer :iphone: 
 - I have worked on several mobile and backend projects 😄 
 - Data Science Enthusiast 📈
 - I’m looking to collaborate on open source projects 👯
